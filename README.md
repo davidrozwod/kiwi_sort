@@ -65,7 +65,7 @@ Here's how they ranked:
 
 # Debugging
 
-All codes executed without error or warnings
+All codes executed without warnings or errors
 
 # PyPlot of the kiwi weight dataset
   
