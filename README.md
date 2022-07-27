@@ -24,29 +24,42 @@ Elements are assigned to individual buckets where they are sorted using a compar
 
 # Unit testing (Automated approach)
 
+
 #1 Bubble Sort
+
 
 #Best case 1 -
 
+
 #Average case 2 -
 
+
 #Worse case 3 -
+
 
 #2 Selection Sort
 
+
 #Best case 1 -
+
 
 #Average case 2 -
 
+
 #Worse case 3 -
+
 
 #3 Bucket Sort
 
+
 #Best case 1 -
+
 
 #Average case 2 -
 
+
 #Worse case 3 -
+
 
 # Most optimized sorting technique
 
