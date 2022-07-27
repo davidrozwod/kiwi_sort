@@ -24,7 +24,6 @@ Elements are assigned to individual buckets where they are sorted using a compar
 
 # Unit testing (Automated approach)
 
-
 #1 Bubble Sort
 
 #Best case 1 -
@@ -49,7 +48,6 @@ Elements are assigned to individual buckets where they are sorted using a compar
 
 #Worse case 3 -
 
-
 # Most optimized sorting technique
 
 Based on the elapsed time for the execution of each code (excluding debugging), we can determine that the Bucket Sort is the least time complex algorithm and therefore executes the fastest out of all the options.
@@ -61,3 +59,11 @@ Here's how they ranked:
 #2 - Selection sort: 0.915s
 
 #3 - Bubble sort: 2.205s
+
+# Debugging
+
+All codes executed without error or warnings
+
+# PyPlot of the kiwi weight dataset
+
+#
