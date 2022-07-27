@@ -8,6 +8,8 @@ Methods of sorting the weight of kiwis from a CSV file
 
 #3 - Install pandas library (pip install pandas)
 
+#4 - data.csv in the same folder as the code
+
 # Sorting Techniques
 The sorting techniques chosen for this project are as follow:
 
