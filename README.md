@@ -12,12 +12,15 @@ Methods of sorting the weight of kiwis from a CSV file
 The sorting techniques chosen for this project are as follow:
 
 #1 - Bubble Sort Algorithm
+
 A sorting technique that repeateadly swaps elements around until the lowest is at the start and the highest at the end of the list
 
 #2 - Selection Sort Algorithm
+
 The selection sort repeateadly finds elements from an unsorted list and sorts them into a sorted list in an ascending order until there's no elements left
 
 #3 - Bucket Sort Algorithm
+
 Elements are assigned to individual buckets where they are sorted using a comparative method - the insertion algorithm - and then organized into a sorted list
 
 # Writen code and outputs -> access screenshots folder
@@ -65,5 +68,4 @@ Here's how they ranked:
 All codes executed without error or warnings
 
 # PyPlot of the kiwi weight dataset
-
-#
+  
