@@ -3,7 +3,9 @@ Methods of sorting the weight of kiwis from a CSV file
 
 # Code requirements
 #1 - Visual Studio 2022
+
 #2 - Python 3.10
+
 #3 - Install pandas library (pip install pandas)
 
 # Sorting Techniques
