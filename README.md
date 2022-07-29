@@ -71,11 +71,11 @@ All codes executed without warnings or errors
 
 # PyPlot of the kiwi weight dataset
 
-# Unsorted List
+#Unsorted List
 
   ![UnsortedList](https://user-images.githubusercontent.com/110004264/181661994-559bf6ef-64a0-40f4-956a-58dde5ddebc6.png)
   
-# Sorted List  
+#Sorted List  
 
 ![SortedList](https://user-images.githubusercontent.com/110004264/181662064-a2320159-ea15-4f1b-87aa-b43911521b1b.png)
 
