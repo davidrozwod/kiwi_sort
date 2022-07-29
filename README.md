@@ -25,7 +25,20 @@ The selection sort repeateadly finds elements from an unsorted list and sorts th
 
 Elements are assigned to individual buckets where they are sorted using a comparative method - the insertion algorithm - and then organized into a sorted list
 
-# Writen code and outputs -> access screenshots folder
+# Writen codes and outputs
+
+Bubble Sort
+![BubbleSort](https://user-images.githubusercontent.com/110004264/181662248-5d7b331f-2de4-4a61-93c6-513eedad8625.png)
+![BubbleSortResult](https://user-images.githubusercontent.com/110004264/181662262-5ac671d0-e70d-49ef-ac96-aa1d4f9911dc.png)
+
+Selection Sort
+![SelectionSort](https://user-images.githubusercontent.com/110004264/181662287-dc638853-3765-4090-b735-49d1119fa922.png)
+![SelectionSortResult](https://user-images.githubusercontent.com/110004264/181662293-1dee4252-2cef-423e-b1bb-b896c071f96f.png)
+
+Bucket Sort
+![BucketSort](https://user-images.githubusercontent.com/110004264/181662306-c20d26b3-26de-4668-8222-05e422952f80.png)
+![BucketSortResult](https://user-images.githubusercontent.com/110004264/181662323-ac2a408a-5827-41a5-b7ba-ca17af45e52b.png)
+
 
 # Unit testing (Automated approach)
 
@@ -71,11 +84,11 @@ All codes executed without warnings or errors
 
 # PyPlot of the kiwi weight dataset
 
-#Unsorted List
+Unsorted List
 
   ![UnsortedList](https://user-images.githubusercontent.com/110004264/181661994-559bf6ef-64a0-40f4-956a-58dde5ddebc6.png)
   
-#Sorted List  
+Sorted List  
 
 ![SortedList](https://user-images.githubusercontent.com/110004264/181662064-a2320159-ea15-4f1b-87aa-b43911521b1b.png)
 
