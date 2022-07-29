@@ -25,7 +25,7 @@ The selection sort repeateadly finds elements from an unsorted list and sorts th
 
 Elements are assigned to individual buckets where they are sorted using a comparative method - the insertion algorithm - and then organized into a sorted list
 
-# Writen codes and outputs
+# Written codes and outputs
 
 Bubble Sort
 ![BubbleSort](https://user-images.githubusercontent.com/110004264/181662248-5d7b331f-2de4-4a61-93c6-513eedad8625.png)
