@@ -43,28 +43,20 @@ Bucket Sort
 # Unit testing (Automated approach)
 
 #1 Bubble Sort
+![Test](https://user-images.githubusercontent.com/110004264/182005106-d5d01c86-1b8d-498b-be44-bbf8ca60b99d.png)
+![TestResult](https://user-images.githubusercontent.com/110004264/182005107-c35a331c-f55a-4072-b61e-79b749b6ea79.png)
 
-#Best case 1 -
-
-#Average case 2 -
-
-#Worse case 3 -
 
 #2 Selection Sort
+![Test](https://user-images.githubusercontent.com/110004264/182005113-58856f22-218a-4ff2-9636-ea79fe0887ca.png)
+![TestResult](https://user-images.githubusercontent.com/110004264/182005117-e4c490a2-793b-4158-8986-42d30cc00bdc.png)
 
-#Best case 1 -
-
-#Average case 2 -
-
-#Worse case 3 -
 
 #3 Bucket Sort
 
-#Best case 1 -
+![Test](https://user-images.githubusercontent.com/110004264/182005123-1285b231-f722-4271-9d60-cd67f3283871.png)
+![TestResult](https://user-images.githubusercontent.com/110004264/182005124-191e91f2-4217-48b9-a618-369c96d10814.png)
 
-#Average case 2 -
-
-#Worse case 3 -
 
 # Most optimized sorting technique
 
